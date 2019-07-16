@@ -1,4 +1,7 @@
 # Frontend-Master-Downloader
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sepiropht/frontend-master-downloader.svg)](https://greenkeeper.io/)
+
 Download content from frontendmaster with puppeteer
 
 ### Usage
