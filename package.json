@@ -15,7 +15,7 @@
     "end-of-stream": "^1.4.1",
     "from2-array": "0.0.4",
     "mkdirp": "^0.5.1",
-    "puppeteer": "^1.18.1",
+    "puppeteer": "^1.20.0",
     "stream-set": "^1.1.0",
     "tape": "^4.9.1",
     "through2-parallel": "^0.1.3",
